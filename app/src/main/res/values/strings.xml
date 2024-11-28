@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DogProject</string>
+
+    <string name="error_disk_full">Error:Disk Full</string>
+    <string name="error_request_timeout">Error: Request Timeout</string>
+    <string name="error_too_many_request">Error: Too Many Request</string>
+    <string name="error_no_internet">Error: No Internet</string>
+    <string name="error_server_error">Error: Server </string>
+    <string name="error_serialization_error">Error: Serialization </string>
+    <string name="error_unknown">Error: UnKnown</string>
+    <string name="error_no_auth">Error: No Auth</string>
+</resources>
